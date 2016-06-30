@@ -395,8 +395,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 666841382}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -.0823909342, y: .906019986, z: -.207665682, w: -.359464169}
+  m_LocalPosition: {x: 4.93187141, y: 5.43506098, z: 8.03862572}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -536,6 +536,9 @@ MonoBehaviour:
   - {fileID: 518391908}
   - {fileID: 1814386312}
   - {fileID: 66167704}
+  waveFreq: 1
+  waveHeight: 1
+  speed: 1
 --- !u!1 &1500709508
 GameObject:
   m_ObjectHideFlags: 0
